@@ -1,4 +1,4 @@
-package behavioural.chain_of_responsibility;
+package behavioural.template_method;
 
 abstract class Car {
     abstract void startEngine();
